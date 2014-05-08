@@ -1,0 +1,4 @@
+syntax: glob
+
+packer_cache
+*.box
