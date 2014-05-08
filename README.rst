@@ -18,6 +18,9 @@ The following versions have been used to create this example:
 - Vagrant 1.6.0
 - VirtualBox 4.3.10
 
+Clone the repository or `download it <https://bitbucket.org/keimlink
+/pvs-example/get/default.tar.gz>`_ to get the necessary files.
+
 Create the Vagrant box with Packer
 ==================================
 
