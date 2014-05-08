@@ -9,7 +9,14 @@ This is an example configuration which builds a Debian `Vagrant
 <https://www.virtualbox.org/>`_ as provider.
 
 You have to install Packer, Vagrant and VirtualBox before you can
-continue.
+continue. Salt will be installed automatically onto the Vagrant box when
+it's started for the first time.
+
+The following versions have been used to create this example:
+
+- Packer 0.6.0
+- Vagrant 1.6.0
+- VirtualBox 4.3.10
 
 Create the Vagrant box with Packer
 ==================================
