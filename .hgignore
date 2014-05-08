@@ -1,4 +1,5 @@
 syntax: glob
 
+.vagrant
 packer_cache
 *.box
