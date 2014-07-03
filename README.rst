@@ -2,8 +2,8 @@
 Packer, Vagrant and Salt Example
 ********************************
 
-This is an example configuration which builds a Debian `Vagrant
-<http://www.vagrantup.com/>`_ box using `Packer
+This is an example configuration which builds a Debian Wheezy 7.5
+(64-bit) `Vagrant <http://www.vagrantup.com/>`_ box using `Packer
 <http://www.packer.io/>`_ and provisions it using `Salt
 <http://www.saltstack.com/community/>`_. It will use `VirtualBox
 <https://www.virtualbox.org/>`_ as provider.
@@ -15,8 +15,8 @@ it's started for the first time.
 The following versions have been used to create this example:
 
 - Packer 0.6.0
-- Vagrant 1.6.0
-- VirtualBox 4.3.10
+- Vagrant 1.6.2
+- VirtualBox 4.3.12
 
 Clone the repository or `download it <https://bitbucket.org/keimlink
 /pvs-example/get/default.tar.gz>`_ to get the necessary files.
