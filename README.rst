@@ -87,3 +87,12 @@ After that log in on the command line::
 Then create an URL to share the running guest with other people::
 
     $ vagrant share
+
+License
+=======
+
+All code is licensed under the New BSD license.
+
+Parts of the Packer configuration are based on the `Virtual machine
+templates for Debian <https://github.com/box-cutter/debian-vm>`_ by
+Mischa Taylor licensed under the Apache License 2.0.
